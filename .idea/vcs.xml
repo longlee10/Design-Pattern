@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../Angular 4/Portfolio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../Angular 4/Puzzle-Store" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../Angular 4/auth-demo-starter/auth-demo-starter/auth-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../Angular 4/testing-demo/testing-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../Docker/section4-react-app/section4-react-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../GIT/Browsing history/Venus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../GIT/Creating snapshots" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../GIT/Rewriting history/Mercury/Mercury" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../HTML-CSS/Project Cloud Hosting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../NextJS/free-food-network" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../NextJS/issue-tracker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../NextJS/next-course" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../NextJS/nextjs-fundamental" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../Node/node-app/vidly" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../React 18/Beginner/My Code/Game-hub" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../React 18/Intermediate/Source Code" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../React Testing/react-testing-starter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../Unit Testing/javascript-testing-starter" vcs="Git" />
+  </component>
+</project>
